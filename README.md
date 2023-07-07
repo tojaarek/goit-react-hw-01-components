@@ -1,4 +1,4 @@
-# Reception Criteria
+# Acceptance Criteria
 
 Use this React project template as a starting point for your application.
 (https://github.com/goitacademy/react-homework-template/blob/main/README.en.md).
